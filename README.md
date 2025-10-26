@@ -1,6 +1,6 @@
 <!-- Banner / Header -->
 <p align="center">
-  <img src="https://astrix-prime.zaynix.biz.id/assets/banner.png" alt="Astrix Prime Banner" width="80%">
+  <img src="https://raw.githubusercontent.com/ROMEKTRICKS/data/refs/heads/main/Astrix%20Prime%20Banner%20(1).jpg" alt="Astrix Prime Banner" width="80%">
 </p>
 
 <h1 align="center">🚀 Astrix-Prime</h1>
